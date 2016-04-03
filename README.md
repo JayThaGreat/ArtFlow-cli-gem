@@ -1,2 +1,2 @@
 # CVE-cli-gem
-Locates latest street art created in NY
+Locates latest CVE's from info security communities
