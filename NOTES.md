@@ -1,0 +1,2 @@
+- No logic in CLI
+- after building logic, was unsure how to connect all my files
