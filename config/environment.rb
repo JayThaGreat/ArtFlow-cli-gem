@@ -1,4 +1,4 @@
-require 'HTTParty'
+#require 'HTTParty'
 require 'open-uri'
 require 'Nokogiri'
 require 'pry'
